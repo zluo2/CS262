@@ -1,0 +1,8 @@
+Project1_zluo2_207
+Extra Credit (The expected return):
+
+	For each time, we need to calculate payout substract bet, and add the numbers until the end of game. In the end, we need to calculate the expected return, which is sum of all numbers add original bankroll, and then over the original bankroll.
+
+	Expected return = (the sum of numbers + original bankroll) / original bankroll.
+
+	if the sum of numbers is negative number, it means that the expected return would less than 100%. On the other hand, the excepted return would larger than 100%.
